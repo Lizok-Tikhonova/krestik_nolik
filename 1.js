@@ -1,3 +1,7 @@
+bb
+
+ 
+
 
 let table = document.querySelector("table")
 let cells = table.querySelectorAll('td')
@@ -12,6 +16,7 @@ let restart = document.querySelector(".restart")
 restart.onclick=()=>{
     location.reload() 
 }
+
 
 function go(cells){
 
