@@ -1,4 +1,5 @@
 
+
 let table = document.querySelector("table")
 let cells = table.querySelectorAll('td')
 
