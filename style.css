@@ -68,3 +68,11 @@ body{
     background-color: #d302c8;
     transition: 0.4s;
 }
+
+td{
+    /* width: 5px; */
+    height: 26px;
+    border: 2px;
+    background-color: antiquewhite;
+    width: 23px;
+}
